@@ -1,0 +1,28 @@
+{
+  "name": "yelp-fusion",
+  "version": "1.0.0",
+  "description": "scrapping yelp fusion apis",
+  "main": "server.js",
+  "author": "vikrant sandal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bluebird": "3.5.0",
+    "body-parser": "^1.18.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.3",
+    "joi": "^13.4.0",
+    "moment": "^2.13.0",
+    "redis": "^3.0.2",
+    "underscore": "1.8.3"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
