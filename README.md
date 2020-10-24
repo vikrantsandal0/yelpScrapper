@@ -105,3 +105,8 @@ To check my noob frontend skills :) go to  http://localhost:port/, it by default
 ![Screenshot from 2020-10-24 10-35-39](https://user-images.githubusercontent.com/38485799/97068544-070ebd80-15e6-11eb-8b3f-8ffabd251d30.png)
 
 
+## Authors
+
+* **Vikrant Sandal** 
+
+
